@@ -1,0 +1,12 @@
+FIAP x GoodWe | EV Challenge 2026.2 | Sprint 03
+Produto: SmartHub Assistant - ChargeGrid Intelligence
+Turma da Sprint 2: 1CCPH - Ciência da Computação (1o ano)
+
+João Pedro do Vale Quagliano - RM 570233
+Leticia Aiko Okano - RM 571988
+Thiago Calazans Luz Nakano - RM 569151
+Enzo Scattolin Furtado - RM 570824
+Guilherme De Lucena Fontes - RM 569658
+Matheus Levi Dagel - RM 571961
+
+Nomes e RMs transcritos do README da Sprint 2 fornecida pelo grupo.

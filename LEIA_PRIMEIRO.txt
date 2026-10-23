@@ -1,0 +1,22 @@
+SMARTHUB ASSISTANT - GUIA RAPIDO
+
+PARA CONVERSAR COM O CHATBOT
+1. Instale e abra o Ollama.
+2. No PowerShell, execute: ollama pull qwen3:4b
+3. De dois cliques em INICIAR_CHATBOT.bat.
+4. Clique no campo BRANCO "Sua pergunta", escreva e pressione Enter.
+
+ATENCAO: nao tente digitar na janela preta de instalacao. Na primeira abertura,
+aguarde a instalacao terminar; depois a janela grafica do chatbot sera aberta.
+
+PARA GERAR AS METRICAS E O PDF FINAL
+1. De dois cliques em baixar_segundo_modelo.bat (somente na primeira vez).
+2. De dois cliques em executar_avaliacao_completa.bat.
+3. Avalie as respostas com s ou n quando o programa solicitar.
+4. Abra docs\relatorio_evolucao.pdf.
+
+IMPORTANTE
+- Nao execute "python chatbot.py run qwen3:4b".
+- O nome do modelo e informado ao Ollama, nao como comando extra do Python.
+- O chatbot nao acessa telemetria, hardware ou faturamento real da GoodWe.
+- As credenciais que apareceram no arquivo original devem ser revogadas.

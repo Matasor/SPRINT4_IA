@@ -1,0 +1,11 @@
+VERSAO NOVA - NAO MISTURAR COM PASTAS ANTERIORES
+
+Esta e a versao DIGITAVEL V2.
+
+Confirmacoes:
+- .env.example nao possui credenciais.
+- O campo branco "Sua pergunta" inicia no estado normal.
+- O Tkinter nao e acessado por threads secundarias.
+- O teste de digitar e enviar uma pergunta foi aprovado.
+
+Abra somente: INICIAR_CHATBOT.bat

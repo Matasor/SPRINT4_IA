@@ -1,0 +1,14 @@
+# Nunca versionar dados privados e chaves
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+# Artefatos e registros de execução local
+*.log
